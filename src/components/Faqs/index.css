@@ -1,0 +1,19 @@
+/* Write your code here. */
+.main-container {
+  background: #f1f5f8;
+  padding: 15px;
+}
+.item-head {
+  background: #ffffff;
+  border: 0px;
+  border-radius: 5px;
+}
+.list-container {
+  list-style-type: none;
+  width: 80%;
+}
+.sub-container {
+  background: #ffffff;
+  border: 0px;
+  border-radius: 5px;
+}

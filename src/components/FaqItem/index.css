@@ -1,0 +1,19 @@
+/* Write your code here. */
+.item-container {
+  border: 1px solid #d7dae6;
+  border-radius: 5px;
+}
+.item-head {
+  display: flex;
+  justify-content: space-between;
+}
+.button {
+  border: 0px;
+  background: transparent;
+  cursor: pointer;
+  outline: none;
+}
+.image {
+  width: 10px;
+  height: 10px;
+}
